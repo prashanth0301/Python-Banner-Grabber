@@ -1,0 +1,19 @@
+User
+ |
+Enter Host & Port
+ |
+Create TCP Socket
+ |
+Connect
+ |----HTTP---->Send GET
+ |             |
+ |             v
+ |        Receive Response
+ |
+ +-->Other Services
+        |
+   Receive Banner
+        |
+   Display Output
+        |
+ Close Socket
