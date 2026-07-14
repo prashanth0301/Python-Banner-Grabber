@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Project](https://img.shields.io/badge/Project-Banner%20Grabber-success)
 # Banner Grabber
 
 A simple Python project that connects to a TCP service and retrieves its banner.
